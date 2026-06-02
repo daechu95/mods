@@ -1,0 +1,18 @@
+{
+  "name": "흐감서버",
+  "minecraftVersion": "1.21.11",
+  "loader": "fabric",
+  "server": {
+    "host": "씨미서버인증씨비서버인증씨븨서버인증.메인.한국",
+    "port": 30000
+  },
+  "mods": [
+    "fabric-api-0.141.3+1.21.11.jar",
+    "iris-fabric-1.10.7+mc1.21.11.jar",
+    "koreanpatch-fabric-1.9.5+mc1.21.11.jar",
+    "sodium-fabric-0.8.7+mc1.21.11.jar",
+    "voicechat-fabric-1.21.11-2.6.16.jar",
+    "xaerominimap-fabric-1.21.11-25.3.12.jar",
+    "xaeroworldmap-fabric-1.21.11-1.40.16.jar"
+  ]
+}
